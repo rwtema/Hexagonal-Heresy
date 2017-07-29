@@ -1,0 +1,16 @@
+[
+{
+  "modid": "hexcraft",
+  "name": "Hexcraft",
+  "description": "Turns entity rendering into hexagons",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["RWTema"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
