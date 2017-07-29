@@ -1,7 +1,7 @@
 [
 {
-  "modid": "hexcraft",
-  "name": "Hexcraft",
+  "modid": "hexeresy",
+  "name": "Hexagonal Heresy",
   "description": "Turns entity rendering into hexagons",
   "version": "${version}",
   "mcversion": "${mcversion}",
